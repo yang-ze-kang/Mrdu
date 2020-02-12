@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="us">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="echarts.min.js"></script>
+</head>
+<body>
+    <div id="main" style="width: 600px;height:400px;"></div>
+</body>
+</html>
+<script>
+     
+    //����ͼ��·��
+    require.config({
+        paths:{
+            echarts:''
+        }
+    });
+    //����ͼ��js�ļ�
+    require(
+       [
+           'echarts',
+           'echarts/chart/radar',  //Ҫʲôͼ����������ʲô����
+       ],
+    function (ec){
+        //����׼���õ�dom����ʼ��echartsͼ��
+        var myChart= ec.init(document.getElementById('main'));
+        var option = {
+                polar: [{
+                    indicator: [
+                        { text: '����', max: 6500},
+                        { text: '����', max: 16000},
+                        { text: '��Ϣ����', max: 30000},
+                        { text: '�ͷ�', max: 38000},
+                        { text: '�з�', max: 52000},
+                        { text: '�г�', max: 25000}
+                    ]
+                }],
+                series: [{
+                    name: "",
+                    type: "radar",
+                    data: [{
+                        value: [4300, 10000, 28000, 35000, 50000, 19000],
+                        name: "Ԥ�����"
+                    }],
+                    itemStyle: {
+                        normal: {
+                            color: "#1DBB37"
+                        }
+                    }
+                    },{
+                    name: "",
+                    type: "radar",
+                    data: [{
+                        value: [5000, 14000, 28000, 31000, 42000, 21000],
+                        name: "ʵ�ʿ���"
+                    }],
+                    itemStyle: {
+                        normal: {
+                            color: "rgb(51, 153, 254)"
+                        }
+                    }
+                    }
+                ],
+        };  
+ 
+        var ecConfig = require('echarts/config');
+        myChart.on(ecConfig.EVENT.CLICK,function(param){
+            //�����ִ�в���
+            alert(param.name)
+        });
+        myChart.setOption(option);
+    });
+</script>

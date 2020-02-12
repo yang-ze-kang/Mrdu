@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="GBK">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.min.js"></script>
+</head>
+<body>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+<div id="main" style="width: 300px;height:300px;"></div>
+<script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+ var myChart = echarts.init(document.getElementById('main'));
+
+var 
+option = {
+    title : {
+        text: '量表测试情况',
+    },
+    tooltip : {
+        trigger: 'item'
+    },
+    legend: {
+        orient : 'vertical',
+        x : 'right',
+        y : 'bottom',
+        data:['测试得分（百分制）']
+    },
+
+    polar : [
+       {
+           indicator : [
+               { text: '汉密尔顿', max: 100},
+               { text: '贝克', max: 100},
+               { text: 'PHQ-9', max: 100},
+               { text: 'GAD-7', max: 100},
+               { text: '伯恩斯', max: 100},
+               { text: 'SDS', max: 100}
+            ]
+        }
+    ],
+    calculable : true,
+    series : [
+        {
+            name: '测试得分（百分制度）',
+            type: 'radar',
+            data : [
+                {
+                    value : [43, 60, 90, 64, 21, 40],
+                    name : '测试得分（百分制）'
+                }
+            ]
+        }
+    ]
+};
+                    
+                    
+         // 使用刚指定的配置项和数据显示图表。
+         
+        myChart.setOption(option);  
+                    
+       </script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.mob.sdk'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "29.0.0"
+
+    defaultConfig {
+        applicationId "com.mrdu"
+        minSdkVersion 17
+
+        //noinspection ExpiredTargetSdkVersion
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        sourceCompatibility = '1.7'
+        targetCompatibility = '1.7'
+    }
+}
+
+// 在MobSDK的扩展中注册SMSSDK的相关信息
+MobSDK {
+    appKey "2dd66924862e8"
+    appSecret "46d9c52b1e1a4f65657f7ee3fec087ad"
+    SMSSDK {}
+}
+
+dependencies {
+    //noinspection GradleCompatible
+    implementation 'com.android.support:recyclerview-v7:23.4.0'
+    implementation 'com.android.support:support-v4:18.0.0'
+    implementation 'com.google.code.gson:gson:2.8.1'
+    implementation 'com.oguzdev:CircularFloatingActionMenu:1.0.2'
+    implementation files('libs/httpmime-4.1.3.jar')
+    implementation 'org.jetbrains:annotations-java5:15.0'
+    implementation 'com.moxun:tagcloudlib:1.2.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.9.0+'
+    implementation 'com.makeramen:roundedimageview:2.3.0'//圆角ImageView
+    implementation files('libs/mysql-connector-java-5.1.36.jar')
+    implementation files('libs/HeWeather_Plugin_SDK_Android_V1.2.jar')
+}

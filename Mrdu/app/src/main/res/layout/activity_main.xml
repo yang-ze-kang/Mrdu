@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:sat="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity"
+    tools:ignore="HardcodedText"
+    android:background="@color/powderblue"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:background="@drawable/background_one_sentence">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/iv_weatherImage"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/weather_sun"/>
+                <TextView
+                    android:id="@+id/tv_weather"
+                    android:layout_width="70dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_below="@id/iv_weatherImage"
+                    android:textSize="32dp"
+                    android:text="20℃"
+                    android:textColor="@color/black"
+                    android:gravity="center"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@id/tv_weather"
+                    android:text="A heavy dew refreshed the earth at night."
+                    android:textSize="20dp"
+                    android:textColor="@color/sentenceblack"
+                    android:textStyle="italic"
+                    android:gravity="bottom|left"
+                    android:layout_marginLeft="10dp"
+                    android:paddingBottom="20dp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+    <com.moxun.tagcloudlib.view.TagCloudView
+        android:id="@+id/tag_cloud"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="20"
+        android:layout_marginBottom="80dp"
+        sat:autoScrollMode="uniform"
+        sat:radiusPercent="0.6"
+        sat:scrollSpeed="3" />
+
+
+
+</LinearLayout>

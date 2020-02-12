@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp" 
+    tools:ignore="HardcodedText"
+    android:background="@color/white">
+    
+    <Button
+        android:id="@+id/bt_hbqcs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="宏表情测试"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/bt_jbfs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="渐变范式"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/bt_dzsb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="短暂识别"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/bt_dtcfs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="点探测范式"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/bt_stroop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="Stroop测试"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/bt_wjdc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="#4876ff"
+        android:text="汉密尔顿量表测试"
+        android:textColor="#ffffff" />
+        
+    <Button
+        android:id="@+id/bt_qtlb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="#4876ff"
+        android:text="其他量表测试"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

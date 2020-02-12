@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp" 
+    tools:ignore="HardcodedText"
+    android:background="@color/white">
+    
+    <Button
+        android:id="@+id/bt_beck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="贝克抑郁自评量表"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/bt_phq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="PHQ-9量表"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/bt_gad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="GAD-7量表"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/bt_boensi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="伯恩斯忧郁症清单"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/bt_sds"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#4876ff"
+        android:text="SDS抑郁自评量表"
+        android:textColor="#ffffff" />
+
+
+
+</LinearLayout>

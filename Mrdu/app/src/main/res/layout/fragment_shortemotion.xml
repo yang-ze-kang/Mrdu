@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:ignore="HardcodedText">
+
+    <ImageView
+        android:id="@+id/iv_photo"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginTop="30dp"
+        android:contentDescription="要识别的图片"
+        android:src="@drawable/happy2" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="情绪类别"
+        android:textSize="16dp"
+        android:textColor="@color/black"/>
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:columnCount="4"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/JBFS"
+            android:text="正性情绪" />
+
+        <Button
+            android:id="@+id/DZSB"
+            android:text="中性情绪" />
+
+        <Button
+            android:id="@+id/DTCFS"
+            android:text="负性情绪" />
+    </GridLayout>
+
+</LinearLayout>

@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [cn.smssdk:SMSSDK:3.3.6] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\SMSSDK-3.3.6.aar\662142359b463bf7f8e287432c96e625\AndroidManifest.xml:2:1-11:12
+MERGED from [cn.smssdk:ShortMessageSDKGUI:3.3.6] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\ShortMessageSDKGUI-3.3.6.aar\cde4aad81f923b96b42d05f739d2cca1\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\a41b6ad9a3579794ae35be3558e10da1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\094d75ea014fca0fcf9d75b6cc5bb9dd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\CircularFloatingActionMenu-1.0.2.aar\598e973037732c17e301989cb852a1c9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.moxun:tagcloudlib:1.2.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\tagcloudlib-1.2.0.aar\45dcf39b1aee4932ab657fa6bf9a9f83\AndroidManifest.xml:2:1-17:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\f1c07e389a26390808e9b8ce5fdcf0fc\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:3:5-23
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [cn.smssdk:SMSSDK:3.3.6] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\SMSSDK-3.3.6.aar\662142359b463bf7f8e287432c96e625\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.smssdk:SMSSDK:3.3.6] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\SMSSDK-3.3.6.aar\662142359b463bf7f8e287432c96e625\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.smssdk:ShortMessageSDKGUI:3.3.6] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\ShortMessageSDKGUI-3.3.6.aar\cde4aad81f923b96b42d05f739d2cca1\AndroidManifest.xml:8:5-11:45
+MERGED from [cn.smssdk:ShortMessageSDKGUI:3.3.6] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\ShortMessageSDKGUI-3.3.6.aar\cde4aad81f923b96b42d05f739d2cca1\AndroidManifest.xml:8:5-11:45
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\a41b6ad9a3579794ae35be3558e10da1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\a41b6ad9a3579794ae35be3558e10da1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\094d75ea014fca0fcf9d75b6cc5bb9dd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\094d75ea014fca0fcf9d75b6cc5bb9dd\AndroidManifest.xml:20:5-43
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\CircularFloatingActionMenu-1.0.2.aar\598e973037732c17e301989cb852a1c9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\CircularFloatingActionMenu-1.0.2.aar\598e973037732c17e301989cb852a1c9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.moxun:tagcloudlib:1.2.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\tagcloudlib-1.2.0.aar\45dcf39b1aee4932ab657fa6bf9a9f83\AndroidManifest.xml:7:5-9:41
+MERGED from [com.moxun:tagcloudlib:1.2.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\tagcloudlib-1.2.0.aar\45dcf39b1aee4932ab657fa6bf9a9f83\AndroidManifest.xml:7:5-9:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\f1c07e389a26390808e9b8ce5fdcf0fc\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\f1c07e389a26390808e9b8ce5fdcf0fc\AndroidManifest.xml:7:5-43
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:7:5-47
+	tools:overrideLibrary
+		ADDED from [cn.smssdk:ShortMessageSDKGUI:3.3.6] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\ShortMessageSDKGUI-3.3.6.aar\cde4aad81f923b96b42d05f739d2cca1\AndroidManifest.xml:11:9-42
+	android:targetSdkVersion
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:10:5-72:19
+MERGED from [cn.smssdk:ShortMessageSDKGUI:3.3.6] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\ShortMessageSDKGUI-3.3.6.aar\cde4aad81f923b96b42d05f739d2cca1\AndroidManifest.xml:13:5-14:19
+MERGED from [cn.smssdk:ShortMessageSDKGUI:3.3.6] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\ShortMessageSDKGUI-3.3.6.aar\cde4aad81f923b96b42d05f739d2cca1\AndroidManifest.xml:13:5-14:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\094d75ea014fca0fcf9d75b6cc5bb9dd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\094d75ea014fca0fcf9d75b6cc5bb9dd\AndroidManifest.xml:22:5-20
+MERGED from [com.moxun:tagcloudlib:1.2.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\tagcloudlib-1.2.0.aar\45dcf39b1aee4932ab657fa6bf9a9f83\AndroidManifest.xml:11:5-15:19
+MERGED from [com.moxun:tagcloudlib:1.2.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\tagcloudlib-1.2.0.aar\45dcf39b1aee4932ab657fa6bf9a9f83\AndroidManifest.xml:11:5-15:19
+	android:supportsRtl
+		ADDED from [com.moxun:tagcloudlib:1.2.0] C:\Users\60382\.gradle\caches\transforms-1\files-1.1\tagcloudlib-1.2.0.aar\45dcf39b1aee4932ab657fa6bf9a9f83\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:15:9-56
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:11:9-51
+activity#com.mrdu.SplashActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:17:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.mrdu.LoginActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:26:13-50
+activity#com.mrdu.PersonalActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:30:13-53
+activity#com.mrdu.MainActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:33:9-38:20
+	android:label
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:35:13-45
+	android:launchMode
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:36:13-44
+	android:theme
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:37:13-47
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:34:13-49
+activity#com.mrdu.TestSelectionActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:40:13-58
+activity#com.mrdu.MyLifeActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:44:13-51
+activity#com.mrdu.EmotionTrainActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:48:13-57
+activity#com.mrdu.RegistActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:51:9-53:20
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:52:13-51
+activity#com.mrdu.CompletePersonalInformationActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:54:9-56:20
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:55:13-72
+activity#com.mrdu.ResultActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:57:9-59:20
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:58:13-51
+activity#com.mrdu.TestActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:60:9-62:20
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:61:13-49
+activity#com.mrdu.TestResultActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:63:9-65:20
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:64:13-55
+activity#com.mrdu.NewsActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:66:9-69:20
+	android:configChanges
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:68:13-83
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:67:13-49
+activity#com.mrdu.OtherTestSelectionActivity
+ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:70:9-71:20
+	android:name
+		ADDED from E:\Code\myprojects\Mrdu\app\Mrdu\app\src\main\AndroidManifest.xml:70:19-69

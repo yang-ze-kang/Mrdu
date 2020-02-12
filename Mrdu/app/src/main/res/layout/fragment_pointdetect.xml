@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:ignore="HardcodedText">
+
+    <ImageView
+        android:id="@+id/iv_photo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="表情图片1"
+        android:src="@drawable/face_1" 
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:id="@+id/iv_photo2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="表情图片2"
+        android:src="@drawable/face_1" 
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:id="@+id/iv_photo3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="表情图片3"
+        android:src="@drawable/face_1" 
+        android:visibility="invisible"/>
+
+    <Button
+        android:id="@+id/bt_clickhere"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="点击这里" />
+
+</LinearLayout>

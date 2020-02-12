@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:ignore="HardcodedText"
+    android:background="@color/background_blue">
+
+    <com.mrdu.view.MyBackTitleBar
+        android:id="@+id/my_back_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/tv_test_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="测试"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/tv_score"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:text="100"
+        android:gravity="center"
+        android:textSize="200dp"
+        android:textColor="@color/healthState4"
+        android:textStyle="italic" />
+    <TextView
+        android:id="@+id/tv_test_intro"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:text="评测标准"
+        android:textSize="18dp"/>
+
+    <!--<TextView-->
+        <!--android:user_id="@+user_id/textView1"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="TextView" />-->
+
+    <!--<TextView-->
+        <!--android:user_id="@+user_id/textView2"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="TextView" />-->
+
+</LinearLayout>
