@@ -82,7 +82,6 @@ public class LoginActivity extends Activity implements OnClickListener {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_login);
-
         et_username = (EditText) findViewById(R.id.et_phone_num);
         et_password = (EditText) findViewById(R.id.et_password1);
         cb_remember = (CheckBox) findViewById(R.id.cb_remember);

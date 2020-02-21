@@ -19,7 +19,7 @@ public class SplashActivity extends Activity {
 	Handler handler = new Handler() {
     	@Override
     	public void handleMessage(Message msg) {
-    		mcontext.startActivity(new Intent(mcontext, LoginActivity.class));
+    		mcontext.startActivity(new Intent(mcontext, PerfectInforActivity.class));
     		SplashActivity.this.finish();
     	}
     };

@@ -1,7 +1,5 @@
 package com.mrdu;
 
-import com.mrdu.bean.UserBean;
-import com.mrdu.view.MyBackTitleBar;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -14,19 +12,18 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import org.json.JSONArray;
+import com.mrdu.bean.UserBean;
+import com.mrdu.view.MyBackTitleBar;
+
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.IOException;
 
-import cn.smssdk.EventHandler;
-import cn.smssdk.SMSSDK;
 import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.FormBody;
@@ -36,7 +33,7 @@ import okhttp3.Request;
 import okhttp3.RequestBody;
 import okhttp3.Response;
 
-public class RegistActivity extends Activity implements OnClickListener {
+public class RegistActivity extends Activity implements View.OnClickListener {
 
     private Context mContext = this;
 

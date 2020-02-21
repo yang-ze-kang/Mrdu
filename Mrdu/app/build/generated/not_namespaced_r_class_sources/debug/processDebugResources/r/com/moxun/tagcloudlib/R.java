@@ -21,9 +21,9 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int decelerate = 0x7f06003d;
-        public static final int disable = 0x7f06003e;
-        public static final int uniform = 0x7f0600b6;
+        public static final int decelerate = 0x7f060032;
+        public static final int disable = 0x7f060033;
+        public static final int uniform = 0x7f060090;
     }
     public static final class string {
         private string() {}

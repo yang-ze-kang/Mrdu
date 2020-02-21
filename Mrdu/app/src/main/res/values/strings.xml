@@ -36,5 +36,6 @@
         测试要求被测试者对屏幕出现的表情图片作出相应表情分类，
         即指出表情图片是高兴、悲伤、中性中的哪一种，并点击相应按钮。
         （测试共分为20小题，每小题5分，总计100分。）</string>
+    <string name="title_activity_perfect_infor">PerfectInforActivity</string>
 
 </resources>

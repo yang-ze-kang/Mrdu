@@ -8,7 +8,6 @@ android {
     defaultConfig {
         applicationId "com.mrdu"
         minSdkVersion 17
-
         //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 18
     }
@@ -25,12 +24,6 @@ android {
     }
 }
 
-// 在MobSDK的扩展中注册SMSSDK的相关信息
-MobSDK {
-    appKey "2dd66924862e8"
-    appSecret "46d9c52b1e1a4f65657f7ee3fec087ad"
-    SMSSDK {}
-}
 
 dependencies {
     //noinspection GradleCompatible
@@ -45,4 +38,5 @@ dependencies {
     implementation 'com.makeramen:roundedimageview:2.3.0'//圆角ImageView
     implementation files('libs/mysql-connector-java-5.1.36.jar')
     implementation files('libs/HeWeather_Plugin_SDK_Android_V1.2.jar')
+    compile 'com.contrarywind:Android-PickerView:4.1.9'
 }

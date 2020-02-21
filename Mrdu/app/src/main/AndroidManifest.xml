@@ -1,74 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.mrdu"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0">
 
-    <uses-sdk android:targetSdkVersion="18" />
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name="com.mrdu.util.MyApplication"
+        android:name=".util.MyApplication"
         android:allowBackup="true"
         android:icon="@drawable/app_logo1"
         android:label="@string/app_name"
-        android:theme="@android:style/Theme.NoTitleBar" >
+        android:theme="@android:style/Theme.NoTitleBar"
+        tools:ignore="GoogleAppIndexingWarning">
+
         <activity
-            android:name="com.mrdu.SplashActivity"
-            android:label="@string/app_name" >
+            android:name=".SplashActivity"
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity
-            android:name="com.mrdu.LoginActivity"
-            android:label="@string/app_name" >
-        </activity>
+            android:name=".LoginActivity"
+            android:label="@string/app_name" />
+
         <activity
-            android:name="com.mrdu.PersonalActivity"
-            android:label="@string/app_name">
-        </activity>
-        <activity
-            android:name="com.mrdu.MainActivity"
+            android:name=".MainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask"
-            android:theme="@style/MyUserTheme">
-        </activity>
+            android:theme="@style/MyUserTheme" />
+
         <activity
-            android:name="com.mrdu.TestSelectionActivity"
-            android:label="@string/app_name" >
-        </activity>
+            android:name=".TestSelectionActivity"
+            android:label="@string/app_name" />
+
         <activity
-            android:name="com.mrdu.MyLifeActivity"
-            android:label="@string/app_name">
-        </activity>
+            android:name=".MyLifeActivity"
+            android:label="@string/app_name" />
+
         <activity
-            android:name="com.mrdu.EmotionTrainActivity"
-            android:label="@string/app_name">
-        </activity>
+            android:name=".EmotionTrainActivity"
+            android:label="@string/app_name" />
+        <activity android:name=".RegistActivity" />
+
+        <activity android:name=".CompletePersonalInformationActivity" />
+
+        <activity android:name=".ResultActivity" />
+
+        <activity android:name=".TestActivity" />
+
+        <activity android:name=".TestResultActivity" />
+
         <activity
-            android:name="com.mrdu.RegistActivity">
-        </activity>
-        <activity
-            android:name="com.mrdu.CompletePersonalInformationActivity">
-        </activity>
-        <activity
-            android:name="com.mrdu.ResultActivity">
-        </activity>
-        <activity
-            android:name="com.mrdu.TestActivity">
-        </activity>
-        <activity
-            android:name="com.mrdu.TestResultActivity">
-        </activity>
-        <activity
-            android:name="com.mrdu.NewsActivity"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize">
-        </activity>
-        <activity android:name="com.mrdu.OtherTestSelectionActivity" >
-        </activity>
+            android:name=".NewsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize" />
+        <activity android:name=".OtherTestSelectionActivity" />
+
+        <activity android:name=".PerfectInforActivity"/>
+
     </application>
 
 </manifest>
