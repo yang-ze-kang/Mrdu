@@ -41,6 +41,7 @@ import okhttp3.Response;
 
 public class PerfectInforActivity extends Activity implements View.OnClickListener {
 
+    //控件
     private EditText etName;
     private EditText etPhone;
     private EditText etOccupation;
@@ -53,6 +54,7 @@ public class PerfectInforActivity extends Activity implements View.OnClickListen
     ArrayList<ArrayList<String>> optionsItem2 = new ArrayList<>();
     ArrayList<ArrayList<ArrayList<String>>> optionsItem3 = new ArrayList<>();
 
+    //信息
     private String inforName;
     private String inforSex;
     private String inforOccupation;
