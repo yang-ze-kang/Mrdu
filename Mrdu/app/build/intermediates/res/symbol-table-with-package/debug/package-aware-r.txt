@@ -76,7 +76,6 @@ color darkturquoise
 color darkviolet
 color deeppink
 color deepskyblue
-color dimgray
 color dimgrey
 color divider
 color dodgerblue
@@ -169,6 +168,7 @@ color plum
 color powderblue
 color purple
 color red
+color result_background_1
 color rosybrown
 color royalblue
 color saddlebrown
@@ -293,6 +293,7 @@ drawable ne7
 drawable news_button_off_background
 drawable news_button_on_background
 drawable result1
+drawable result_background1
 drawable sa1
 drawable sa2
 drawable sa3
@@ -302,6 +303,9 @@ drawable sa6
 drawable sa7
 drawable selector_pickerview_btn
 drawable shadow
+drawable simple1
+drawable simple2
+drawable simple3
 drawable splash1
 drawable splash2
 drawable splash3
@@ -468,6 +472,9 @@ id tv_username
 id tv_weather
 id uniform
 id vp
+id wb_average
+id wb_jianbian
+id wb_test_num
 id webview
 id year
 integer animation_default_duration
@@ -508,6 +515,7 @@ layout news_video_item
 layout pickerview_options
 layout pickerview_time
 layout post_write
+layout test
 layout textchart
 layout video_view
 menu main

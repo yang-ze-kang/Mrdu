@@ -31,15 +31,15 @@ public final class R {
     public static final class color {
         private color() {}
 
-        public static final int pickerview_bgColor_default = 0x7f03007c;
-        public static final int pickerview_bgColor_overlay = 0x7f03007d;
-        public static final int pickerview_bg_topbar = 0x7f03007e;
-        public static final int pickerview_timebtn_nor = 0x7f03007f;
-        public static final int pickerview_timebtn_pre = 0x7f030080;
-        public static final int pickerview_topbar_title = 0x7f030081;
-        public static final int pickerview_wheelview_textcolor_center = 0x7f030082;
-        public static final int pickerview_wheelview_textcolor_divider = 0x7f030083;
-        public static final int pickerview_wheelview_textcolor_out = 0x7f030084;
+        public static final int pickerview_bgColor_default = 0x7f03007b;
+        public static final int pickerview_bgColor_overlay = 0x7f03007c;
+        public static final int pickerview_bg_topbar = 0x7f03007d;
+        public static final int pickerview_timebtn_nor = 0x7f03007e;
+        public static final int pickerview_timebtn_pre = 0x7f03007f;
+        public static final int pickerview_topbar_title = 0x7f030080;
+        public static final int pickerview_wheelview_textcolor_center = 0x7f030081;
+        public static final int pickerview_wheelview_textcolor_divider = 0x7f030082;
+        public static final int pickerview_wheelview_textcolor_out = 0x7f030083;
     }
     public static final class dimen {
         private dimen() {}
@@ -53,7 +53,7 @@ public final class R {
     public static final class drawable {
         private drawable() {}
 
-        public static final int selector_pickerview_btn = 0x7f050056;
+        public static final int selector_pickerview_btn = 0x7f050057;
     }
     public static final class id {
         private id() {}
@@ -77,7 +77,7 @@ public final class R {
         public static final int second = 0x7f060077;
         public static final int timepicker = 0x7f06007d;
         public static final int tvTitle = 0x7f06007e;
-        public static final int year = 0x7f060093;
+        public static final int year = 0x7f060096;
     }
     public static final class integer {
         private integer() {}

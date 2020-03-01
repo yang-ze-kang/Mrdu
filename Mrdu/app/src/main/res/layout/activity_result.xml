@@ -27,8 +27,9 @@
 
         <WebView
             android:id="@+id/webview"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"></WebView>
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/infor_background"/>
     </LinearLayout>
 
     <LinearLayout

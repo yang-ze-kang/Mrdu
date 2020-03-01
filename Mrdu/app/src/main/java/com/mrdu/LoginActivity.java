@@ -56,21 +56,38 @@ public class LoginActivity extends Activity implements OnClickListener {
             if (msg.what == 1) {
                 //处理response数据
                 String returnMessage = (String) msg.obj;
-                UserBean userBean = UserBean.responseUser(returnMessage);
-                if (userBean != null) {
-                    if (userBean.status == 201) {
+                try {
+                    JSONObject jsonObject = new JSONObject(returnMessage);
+                    int status = jsonObject.getInt("status");
+                    if (status == 200) {
                         MemoryPassword();
                         MyApplication app = (MyApplication) LoginActivity.this.getApplication();
-                        ub=UserBean.responseUser(returnMessage);
+                        ub.user_id=jsonObject.getInt("user_id");
                         app.setUser(ub);
                         startActivity(new Intent(mContext, MainActivity.class));
                         finish();
-                    } else if (userBean.status == 403) {
-                        Toast.makeText(mContext, userBean.error, Toast.LENGTH_SHORT).show();
+                    } else if (status == 403) {
+                        String error = jsonObject.getString("error");
+                        Toast.makeText(mContext, error, Toast.LENGTH_SHORT).show();
                     }
-                }else{
-                    Toast.makeText(mcontext,"网络信号差，登录失败！",Toast.LENGTH_SHORT).show();
+                } catch (JSONException e) {
+                    e.printStackTrace();
                 }
+//                UserBean userBean = UserBean.responseUser(returnMessage);
+//                if (userBean != null) {
+//                    if (userBean.status == 200) {
+//                        MemoryPassword();
+//                        MyApplication app = (MyApplication) LoginActivity.this.getApplication();
+//                        ub=UserBean.responseUser(returnMessage);
+//                        app.setUser(ub);
+//                        startActivity(new Intent(mContext, MainActivity.class));
+//                        finish();
+//                    } else if (userBean.status == 403) {
+//                        Toast.makeText(mContext, userBean.error, Toast.LENGTH_SHORT).show();
+//                    }
+//                }else{
+//                    Toast.makeText(mcontext,"网络信号差，登录失败！",Toast.LENGTH_SHORT).show();
+//                }
 
             }
         }
@@ -89,21 +106,21 @@ public class LoginActivity extends Activity implements OnClickListener {
         tv_regist = (TextView) findViewById(R.id.tv_regist);
         bt_login.setOnClickListener(this);
         tv_regist.setOnClickListener(this);
-        UserBean us = new UserBean();
-        us = SaveUtils.getUserInfo(mcontext);
-
-        if (!us.username.equals("") && !us.password.equals("")) {
-            cb_remember.setChecked(true);
-            et_username.setText(us.username);
-            et_password.setText(us.password);
-            try {
-                login();
-            } catch (JSONException e) {
-                e.printStackTrace();
-            }
-        } else if (!us.username.equals("")) {
-            et_username.setText(us.username);
-        }
+//        UserBean us = new UserBean();
+//        us = SaveUtils.getUserInfo(mContext);
+//
+//        if (!us.username.equals("") && !us.password.equals("")) {
+//            cb_remember.setChecked(true);
+//            et_username.setText(us.username);
+//            et_password.setText(us.password);
+//            try {
+//                login();
+//            } catch (JSONException e) {
+//                e.printStackTrace();
+//            }
+//        } else if (!us.username.equals("")) {
+//            et_username.setText(us.username);
+//        }
 
 
     }
@@ -156,6 +173,7 @@ public class LoginActivity extends Activity implements OnClickListener {
         }
         RequestBody requestBody = RequestBody.create(JSON, String.valueOf(jsonObject));
         //发起请求
+        Log.v("LogInActivity","request body:"+requestBody);
         final Request request = new Request.Builder()
                 .url(getResources().getString(R.string.url_log_in))
                 .post(requestBody)
@@ -163,13 +181,14 @@ public class LoginActivity extends Activity implements OnClickListener {
         client.newCall(request).enqueue(new Callback() {
             @Override
             public void onFailure(Call call, IOException e) {
+                Log.e("LogInActivity","request failure"+e);
                 e.printStackTrace();
             }
 
             @Override
             public void onResponse(Call call, Response response) throws IOException {
                 String responseStr=response.body().string();
-                Log.e("LogIn","LogIn Response:"+responseStr);
+                Log.e("LogInActivity","LogIn Response:"+responseStr);
                 mHandler.obtainMessage(1, responseStr).sendToTarget();
             }
         });

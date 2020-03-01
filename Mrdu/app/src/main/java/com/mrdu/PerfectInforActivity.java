@@ -242,8 +242,8 @@ public class PerfectInforActivity extends Activity implements View.OnClickListen
                 if (judgeBirthday(date)) {
                     tvBirth.setText(DateFormat.format("yyyy年MM月dd日", date));
                     inforBirthYear = Integer.parseInt(String.valueOf(DateFormat.format("yyyy", date)));
-                    inforBirthYear = Integer.parseInt(String.valueOf(DateFormat.format("MM", date)));
-                    inforBirthYear = Integer.parseInt(String.valueOf(DateFormat.format("dd", date)));
+                    inforBirthMonth = Integer.parseInt(String.valueOf(DateFormat.format("MM", date)));
+                    inforBirthDay = Integer.parseInt(String.valueOf(DateFormat.format("dd", date)));
                 } else {
                     showText("请输入您的真实生日");
                 }

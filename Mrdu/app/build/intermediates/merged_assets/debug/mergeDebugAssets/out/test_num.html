@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.min.js"></script>
+</head>
+<body>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+<div id="main" style="width: 600px;height:400px;"></div>
+<script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('main'));
+
+        let bgColor = '#fff';
+let bdColor = 'rgba(23, 47, 109, 0.5)';
+let scale = 1;
+var echartData = [{
+    name: '宏表情范式',
+    value: '272',
+    unit: '次',
+    selected: true
+}, {
+    name: '渐变范式',
+    value: '292',
+    unit: '次',
+}, {
+    name: '点探测范式',
+    value: '120',
+    unit: '次',
+}, {
+    name: 'Stroop范式',
+    value: '42',
+    unit: '次',
+},{
+    name: '短暂识别',
+    value: '42',
+    unit: '次',
+}];
+option = {
+    backgroundColor: bgColor,
+    color: ['#2AC9FD', '#9AB321', '#35C96E', '#FCC708', '#99ABA5', '#5957C2', '#4A5D73'],
+    series: [{
+        type: 'pie',
+        radius: ['0', '60%'],
+        selectedMode: 'single',
+        selectedOffset: 10,
+        labelLine: {
+            normal: {
+                length: 25,
+                length2: 120,
+                lineStyle: {
+                    type: 'solid'
+                }
+            }
+        },
+        label: {
+            normal: {
+                formatter: (params) => {
+                    let desc = params.data.desc || '';
+                    let unit = params.data.unit || '';
+                    return '{a|' + params.name + '}\n{a|'  + params.value + unit + ' ' + params.percent + '%}'
+                },
+                padding: [0, -100],
+                height: 80,
+                rich: {
+                    a: {
+                        color: 'auto',
+                        fontSize: 16 * scale,
+                        height: 20 * scale,
+                        align: 'center'
+                    }
+                },
+            },
+        },
+        data: echartData,
+    }]
+};
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+       // window.onresize=myChart.resize();
+        <!--setTimeout(function (){-->
+	    <!--window.onresize = function () {-->
+	    	<!--myChart.resize();-->
+	    <!--}-->
+	<!--},200)-->
+    </script>
+</body>
+</html>

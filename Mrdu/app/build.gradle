@@ -39,4 +39,6 @@ dependencies {
     implementation files('libs/mysql-connector-java-5.1.36.jar')
     implementation files('libs/HeWeather_Plugin_SDK_Android_V1.2.jar')
     compile 'com.contrarywind:Android-PickerView:4.1.9'
+    compile 'com.github.abel533:ECharts:3.0.0.2'
+
 }

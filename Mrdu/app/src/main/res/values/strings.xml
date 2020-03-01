@@ -2,7 +2,7 @@
 <resources>
     <!--url-->
     <string name="url">"http://218.244.148.142:8888/app/"</string>
-    <string name="url_log_in">"http://218.244.148.142:8888/app/"</string>
+    <string name="url_log_in">"http://218.244.148.142:8888/app/login/"</string>
     <string name="url_regist">"http://218.244.148.142:8888/app/signup/"</string>
     <string name="url_test">"http://218.244.148.142:8888/app/test/"</string>
     <string name="url_result">"http://218.244.148.142:8888/app/result/"</string>

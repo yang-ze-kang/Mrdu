@@ -197,27 +197,28 @@ public class ResultActivity extends Activity implements OnClickListener {
         String re = 0 + "";
         switch (v.getId()) {
             case R.id.JBFS:
-                webview.loadUrl("http://118.190.201.76:8888/score/" + String.valueOf(user.user_id) + "/JBFS/");
-                tvTitle.setText("渐变范式");
-                if (!jbfs.isEmpty()) {
-                    double s = jbfs.get(jbfs.size() - 1).score;
-                    s = 100 - (s / 3.5) * 100;
-                    s = 21.5;
-                    if (s <= 100 && s > 75) {
-                        re = s + "  你很健康！";
-                    } else if (s <= 75 && s > 60) {
-                        re = s + "  你有轻度的情绪不良，请注意调解！";
-                    } else if (s <= 60 && s > 15) {
-                        re = s + "  你有轻度的抑郁倾向，请即时去看心理医生！";
-
-                    } else if (s < 15) {
-                        re = s + "  你有严重的抑郁症，必须看心理医生接受治疗！";
-                    } else {
-                        s = 0;
-                        re = s + "  你有严重的抑郁症，必须看心理医生接受治疗！";
-                    }
-
-                }
+                webview.loadUrl("file:///android_asset/test.html");
+                //webview.loadUrl("http://118.190.201.76:8888/score/" + String.valueOf(user.user_id) + "/JBFS/");
+//                tvTitle.setText("渐变范式");
+//                if (!jbfs.isEmpty()) {
+//                    double s = jbfs.get(jbfs.size() - 1).score;
+//                    s = 100 - (s / 3.5) * 100;
+//                    s = 21.5;
+//                    if (s <= 100 && s > 75) {
+//                        re = s + "  你很健康！";
+//                    } else if (s <= 75 && s > 60) {
+//                        re = s + "  你有轻度的情绪不良，请注意调解！";
+//                    } else if (s <= 60 && s > 15) {
+//                        re = s + "  你有轻度的抑郁倾向，请即时去看心理医生！";
+//
+//                    } else if (s < 15) {
+//                        re = s + "  你有严重的抑郁症，必须看心理医生接受治疗！";
+//                    } else {
+//                        s = 0;
+//                        re = s + "  你有严重的抑郁症，必须看心理医生接受治疗！";
+//                    }
+//
+//                }
                 //   textviewscore.setText(re + "");
                 break;
             case R.id.DZSB:

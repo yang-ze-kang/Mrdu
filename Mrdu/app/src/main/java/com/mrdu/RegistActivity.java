@@ -18,11 +18,13 @@ import android.widget.Toast;
 
 import com.mrdu.bean.UserBean;
 import com.mrdu.view.MyBackTitleBar;
+import com.mysql.jdbc.TimeUtil;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 import okhttp3.Call;
 import okhttp3.Callback;
@@ -54,7 +56,10 @@ public class RegistActivity extends Activity implements View.OnClickListener {
     private int time = 30;
 
     UserBean ub = new UserBean();
-    private OkHttpClient client = new OkHttpClient();
+    private OkHttpClient client = new OkHttpClient().newBuilder()
+                                .connectTimeout(60000,TimeUnit.MILLISECONDS)
+                                .readTimeout(60000,TimeUnit.MILLISECONDS)
+                                .build();
     public static final MediaType JSON = MediaType.parse("application/json; charset=utf-8");
 
     @SuppressLint("HandlerLeak")
@@ -184,6 +189,7 @@ public class RegistActivity extends Activity implements View.OnClickListener {
                     showText("请输入您的邮箱");
                 } else {
                     bt_getkey.setClickable(false);
+                    Log.v("RegistActivity","send mail:"+email);
                     postVerRequest(email);
                     //重新获取验证码倒计时
                     new Thread(new Runnable() {
@@ -228,7 +234,7 @@ public class RegistActivity extends Activity implements View.OnClickListener {
     //获取验证码请求
     private void postVerRequest(String email) {
         //请求内容
-        Log.e("Regist", "email:" + email);
+        Log.e("RegistActivity", "email:" + email);
         RequestBody requestBody = new FormBody.Builder()
                 .add("email", email)
                 .build();
@@ -236,12 +242,14 @@ public class RegistActivity extends Activity implements View.OnClickListener {
                 .url(getResources().getString(R.string.url) + "email/")
                 .post(requestBody)
                 .build();
+        Log.v("RegistActivity","request url:"+getResources().getString(R.string.url)+"email/");
         //请求任务
         client.newCall(request).enqueue(new Callback() {
 
             @Override
             public void onFailure(Call call, IOException e) {
                 handler.obtainMessage(2, "网络信号差").sendToTarget();
+                Log.e("RegistActivity", String.valueOf(e));
             }
 
             @Override

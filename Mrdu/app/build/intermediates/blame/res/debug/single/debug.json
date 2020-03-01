@@ -1,13 +1,5 @@
 [
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro8.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro8.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxxhdpi-v4\\button_action_dark_touch.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_regist.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_regist.xml"
     },
@@ -16,16 +8,8 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ne2.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash4.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\splash4.jpg"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_selector.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_logo.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\app_logo.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_white_24dp.png.flat",
@@ -33,11 +17,7 @@
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-hdpi-v4\\button_action_dark.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sa4.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\sa4.jpg"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-hdpi-v4\\button_action_dark.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_jianbianfanshi.xml.flat",
@@ -45,55 +25,23 @@
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_sub_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxxhdpi-v4\\button_sub_action_dark_touch.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\logo.jpg"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxxhdpi-v4\\button_sub_action_dark_touch.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_sub_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xhdpi-v4\\button_sub_action.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xhdpi-v4\\button_sub_action.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_perfect_infor.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_perfect_infor.xml"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_circle_outline_white_24dp.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_pause_circle_outline_white_24dp.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\anim_pickerview_dialog_scale_in.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\a5365c0215f93926a53dd077c9322a6b\\res\\anim\\pickerview_dialog_scale_in.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_an3.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\an3.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_view.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\video_view.xml"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy4.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy4.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_testresult.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_testresult.xml"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_shortemotion.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_shortemotion.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha5.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ha5.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infor_button.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\infor_button.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_blue_touch.png.flat",
@@ -104,24 +52,388 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_test.xml"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro7.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro7.jpg"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy3.jpeg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy3.jpeg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fullscreen_exit_white_24dp.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_fullscreen_exit_white_24dp.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_button_off_background.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\news_button_off_background.xml"
     },
     {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ne3.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ne3.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy9.jpeg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy9.jpeg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_waitresult.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_waitresult.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy5.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy5.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro1.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro1.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_sub_action_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxxhdpi-v4\\button_sub_action_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy10.jpeg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy10.jpeg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy8.jpeg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy8.jpeg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\anim_pickerview_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\88076e83672f7d3e408a0046b8634ef6\\res\\anim\\pickerview_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_post_write.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\post_write.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\anim_pickerview_dialog_scale_out.xml.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\88076e83672f7d3e408a0046b8634ef6\\res\\anim\\pickerview_dialog_scale_out.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_perfect_infor.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_perfect_infor.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_pickerview_time.xml.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\88076e83672f7d3e408a0046b8634ef6\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro2.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro2.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ne4.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ne4.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_action_dark.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xhdpi-v4\\button_action_dark.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_action_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-mdpi-v4\\button_action_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy6.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy6.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infor_line.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\infor_line.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ne1.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ne1.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_action_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-hdpi-v4\\button_action_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_forum.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\item_forum.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_sub_action_dark.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-hdpi-v4\\button_sub_action_dark.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_word.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_word.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_login_out.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_login_out.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_article_item.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\news_article_item.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_action.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-mdpi-v4\\button_action.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_sub_action_dark_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xhdpi-v4\\button_sub_action_dark_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_button_on_background.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\news_button_on_background.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mylife.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_mylife.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hongbiaoqing.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_hongbiaoqing.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_circle_outline_white_48dp.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_pause_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_fragment_jianbianfanshi.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout-v21\\fragment_jianbianfanshi.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_sub_action_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxhdpi-v4\\button_sub_action_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha1.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ha1.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_forum_main.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\forum_main.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy7.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy7.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_action_dark_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxhdpi-v4\\button_action_dark_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro5.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro5.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_sub_action_dark.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xhdpi-v4\\button_sub_action_dark.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha2.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ha2.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_sub_action_dark_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxhdpi-v4\\button_sub_action_dark_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_insert_result.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_insert_result.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_sub_action.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxxhdpi-v4\\button_sub_action.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ne7.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ne7.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_sub_action_selector.xml.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable\\button_sub_action_selector.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_sub_action_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-mdpi-v4\\button_sub_action_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_circle_filled_red_500_24dp.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_play_circle_filled_red_500_24dp.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_sub_action.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-mdpi-v4\\button_sub_action.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash2.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\splash2.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_pickerview_options.xml.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\88076e83672f7d3e408a0046b8634ef6\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_action_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxxhdpi-v4\\button_action_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy2.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy2.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_action.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxxhdpi-v4\\button_action.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\edit_text.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user3.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\user3.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_action_dark.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxxhdpi-v4\\button_action_dark.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_action_dark_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-hdpi-v4\\button_action_dark_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_basepickerview.xml.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\88076e83672f7d3e408a0046b8634ef6\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_main.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\news_main.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_sub_action_dark_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-mdpi-v4\\button_sub_action_dark_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_circle_outline_white_48dp.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_play_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\anim_pickerview_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\88076e83672f7d3e408a0046b8634ef6\\res\\anim\\pickerview_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_sub_action_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-hdpi-v4\\button_sub_action_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_action_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxhdpi-v4\\button_action_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha7.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ha7.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_testformselection.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_testformselection.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infor_image.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\infor_image.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_action_new_light.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\action_new_light.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_sun.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\weather_sun.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple3.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\simple3.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pointdetect.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_pointdetect.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro6.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro6.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_action_dark_touch.png.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxxhdpi-v4\\button_action_dark_touch.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro8.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro8.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash4.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\splash4.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_logo.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sa4.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\sa4.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\logo.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_circle_outline_white_24dp.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_pause_circle_outline_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\anim_pickerview_dialog_scale_in.xml.flat",
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\88076e83672f7d3e408a0046b8634ef6\\res\\anim\\pickerview_dialog_scale_in.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_an3.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\an3.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_view.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\video_view.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_testresult.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_testresult.xml"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha5.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ha5.jpg"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infor_button.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\infor_button.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fullscreen_exit_white_24dp.png.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_fullscreen_exit_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro7.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro7.jpg"
+    },
+    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_pickerview_btn.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\a5365c0215f93926a53dd077c9322a6b\\res\\drawable\\selector_pickerview_btn.xml"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\88076e83672f7d3e408a0046b8634ef6\\res\\drawable\\selector_pickerview_btn.xml"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
@@ -132,8 +444,8 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_user.png"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ne3.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ne3.jpg"
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple2.jpg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\simple2.jpg"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
@@ -152,14 +464,6 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\an4.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy9.jpeg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy9.jpeg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_waitresult.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_waitresult.xml"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user2.png.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\user2.png"
     },
@@ -172,44 +476,20 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\my_back_title.xml"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy5.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy5.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro1.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro1.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_sub_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxxhdpi-v4\\button_sub_action_touch.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_face_2.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\face_2.jpg"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_sub_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxxhdpi-v4\\button_sub_action_dark.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy10.jpeg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy10.jpeg"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxxhdpi-v4\\button_sub_action_dark.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_sub_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxhdpi-v4\\button_sub_action_dark.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy8.jpeg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy8.jpeg"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxhdpi-v4\\button_sub_action_dark.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_action_new.png.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\action_new.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\anim_pickerview_slide_out_bottom.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\a5365c0215f93926a53dd077c9322a6b\\res\\anim\\pickerview_slide_out_bottom.xml"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha6.jpg.flat",
@@ -221,67 +501,27 @@
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-mdpi-v4\\button_action_dark_touch.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-mdpi-v4\\button_action_dark_touch.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_an2.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\an2.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_post_write.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\post_write.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\anim_pickerview_dialog_scale_out.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\a5365c0215f93926a53dd077c9322a6b\\res\\anim\\pickerview_dialog_scale_out.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_perfect_infor.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_perfect_infor.xml"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-hdpi-v4\\button_action.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_pickerview_time.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\a5365c0215f93926a53dd077c9322a6b\\res\\layout\\pickerview_time.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro2.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro2.jpg"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-hdpi-v4\\button_action.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha3.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ha3.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ne4.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ne4.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xhdpi-v4\\button_action_dark.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-mdpi-v4\\button_action_touch.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_sub_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-mdpi-v4\\button_sub_action_dark.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-mdpi-v4\\button_sub_action_dark.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_an5.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\an5.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy6.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy6.jpg"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_face_3.jpg.flat",
@@ -292,60 +532,20 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\sa3.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infor_line.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\infor_line.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user1.png.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\user1.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ne1.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ne1.jpg"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_back.png.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_back.png"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-hdpi-v4\\button_action_touch.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_forum.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\item_forum.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_sub_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-hdpi-v4\\button_sub_action_dark.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_word.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_word.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_login_out.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_login_out.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_article_item.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\news_article_item.xml"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sa6.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\sa6.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-mdpi-v4\\button_action.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
@@ -356,10 +556,6 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\splash1.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_sub_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xhdpi-v4\\button_sub_action_dark_touch.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_questionare.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_questionare.xml"
     },
@@ -368,48 +564,20 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_button_on_background.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\news_button_on_background.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mylife.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_mylife.xml"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_an7.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\an7.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hongbiaoqing.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_hongbiaoqing.xml"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_circle_outline_white_48dp.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_pause_circle_outline_white_48dp.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_sub_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xhdpi-v4\\button_sub_action_touch.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_fragment_jianbianfanshi.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout-v21\\fragment_jianbianfanshi.xml"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xhdpi-v4\\button_sub_action_touch.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy1.jpeg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy1.jpeg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_sub_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxhdpi-v4\\button_sub_action_touch.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha1.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ha1.jpg"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_list.xml.flat",
@@ -420,16 +588,8 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_personal.xml"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_forum_main.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\forum_main.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy7.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy7.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxhdpi-v4\\button_action_dark_touch.png"
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple1.jpeg.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\simple1.jpeg"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sa7.jpg.flat",
@@ -444,20 +604,16 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_fullscreen_white_24dp.png"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro5.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro5.jpg"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_result1.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\result1.jpg"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-mdpi-v4\\button_action_dark.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-mdpi-v4\\button_action_dark.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xhdpi-v4\\button_action.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xhdpi-v4\\button_action.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_textchart.xml.flat",
@@ -468,8 +624,8 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_call_us.png"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_sub_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xhdpi-v4\\button_sub_action_dark.png"
+        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_result_background1.xml.flat",
+        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\result_background1.xml"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sa1.jpg.flat",
@@ -477,19 +633,11 @@
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_sub_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-hdpi-v4\\button_sub_action_dark_touch.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha2.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ha2.jpg"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-hdpi-v4\\button_sub_action_dark_touch.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_sub_action_dark_selector.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable\\button_sub_action_dark_selector.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_sub_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxhdpi-v4\\button_sub_action_dark_touch.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable\\button_sub_action_dark_selector.xml"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow.xml.flat",
@@ -497,31 +645,15 @@
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxhdpi-v4\\button_action_dark.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxhdpi-v4\\button_action_dark.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxhdpi-v4\\button_action.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxhdpi-v4\\button_action.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro4.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro4.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_insert_result.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_insert_result.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_sub_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxxhdpi-v4\\button_sub_action.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ne7.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ne7.jpg"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infor_background.png.flat",
@@ -540,18 +672,6 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_sub_action_selector.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable\\button_sub_action_selector.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_sub_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-mdpi-v4\\button_sub_action_touch.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_circle_filled_red_500_24dp.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_play_circle_filled_red_500_24dp.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_video_item.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\news_video_item.xml"
     },
@@ -560,100 +680,36 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\sa2.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_sub_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-mdpi-v4\\button_sub_action.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash2.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\splash2.jpg"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_pickerview_topbar.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\a5365c0215f93926a53dd077c9322a6b\\res\\layout\\include_pickerview_topbar.xml"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\88076e83672f7d3e408a0046b8634ef6\\res\\layout\\include_pickerview_topbar.xml"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_blue.png.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_blue.png"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_pickerview_options.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\a5365c0215f93926a53dd077c9322a6b\\res\\layout\\pickerview_options.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxxhdpi-v4\\button_action_touch.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_happy2.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\happy2.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxxhdpi-v4\\button_action.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\edit_text.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user3.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\user3.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_sub_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxhdpi-v4\\button_sub_action.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xxhdpi-v4\\button_sub_action.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash5.jpg.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\splash5.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_button_action_dark.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxxhdpi-v4\\button_action_dark.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_setting.png.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\button_setting.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-hdpi-v4\\button_action_dark_touch.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_testselection.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_testselection.xml"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_basepickerview.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\a5365c0215f93926a53dd077c9322a6b\\res\\layout\\layout_basepickerview.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_main.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\news_main.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_button_sub_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-mdpi-v4\\button_sub_action_dark_touch.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_circle_outline_white_48dp.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\ic_play_circle_outline_white_48dp.png"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xhdpi-v4\\button_action_touch.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xhdpi-v4\\button_action_touch.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_action_selector.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable\\button_action_selector.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\anim_pickerview_slide_in_bottom.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\Android-PickerView-4.1.9.aar\\a5365c0215f93926a53dd077c9322a6b\\res\\anim\\pickerview_slide_in_bottom.xml"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable\\button_action_selector.xml"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_an6.jpg.flat",
@@ -662,10 +718,6 @@
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_user_title.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\my_user_title.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_sub_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-hdpi-v4\\button_sub_action_touch.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_face_1.jpg.flat",
@@ -681,15 +733,11 @@
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_button_action_dark_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xhdpi-v4\\button_action_dark_touch.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-xhdpi-v4\\button_action_dark_touch.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_perfect_infor.xml.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\menu\\menu_perfect_infor.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_button_action_touch.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-xxhdpi-v4\\button_action_touch.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_stroop.xml.flat",
@@ -700,28 +748,8 @@
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro9.jpg"
     },
     {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha7.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\ha7.jpg"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_testformselection.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\activity_testformselection.xml"
-    },
-    {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_logo1.png.flat",
         "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable-xhdpi\\app_logo1.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_infor_image.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\infor_image.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_action_new_light.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\action_new_light.png"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_sun.png.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\weather_sun.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ha4.jpg.flat",
@@ -733,15 +761,7 @@
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_action_dark_selector.xml.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable\\button_action_dark_selector.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pointdetect.xml.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\layout\\fragment_pointdetect.xml"
-    },
-    {
-        "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test_intro6.jpg.flat",
-        "source": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\src\\main\\res\\drawable\\test_intro6.jpg"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable\\button_action_dark_selector.xml"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_completepersonalinformation.xml.flat",
@@ -749,7 +769,7 @@
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_button_sub_action.png.flat",
-        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\4594f6dfa4654d5327203f164300b559\\res\\drawable-hdpi-v4\\button_sub_action.png"
+        "source": "C:\\Users\\60382\\.gradle\\caches\\transforms-1\\files-1.1\\CircularFloatingActionMenu-1.0.2.aar\\ede5e6b2425cffcf144265aacdf8337d\\res\\drawable-hdpi-v4\\button_sub_action.png"
     },
     {
         "merged": "E:\\Code\\myprojects\\Mrdu\\app\\Mrdu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ne5.jpg.flat",

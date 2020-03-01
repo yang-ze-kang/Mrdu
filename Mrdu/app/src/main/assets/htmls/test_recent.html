@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.min.js"></script>
+</head>
+<body>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+<div id="main" style="width: 600px;height:400px;"></div>
+<script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('main'));
+
+        // Generate data
+        // Generate data
+        var category = [];
+        var dottedBase = +new Date();
+        var lineData = [];
+        var barData = [];
+        var options;
+
+    function newOption(){
+         options = {
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'shadow',
+                    label: {
+                        show: true,
+                        backgroundColor: '#333'
+                    }
+                }
+            },
+            grid: {
+                left: '2%',
+                right: '4%',
+                bottom: '10%',
+                top:'16%',
+                containLabel: true
+            },
+            legend: {
+                data: ['分数', '作答用时'],
+                <!--orient:'vertical',-->
+                textStyle: {
+                    color: '#000',
+                    fontSize: 18
+                },
+            },
+            xAxis: {
+                data: category,
+                axisLabel:{
+                    textStyle:{
+                        fontSize:18
+                    }
+                },
+                axisLine: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                }
+            },
+            yAxis: [{
+               name: '分数',
+               max: 100,
+               splitLine: {
+                    show: true,
+                    lineStyle: {
+                        color: '#aaa'
+                    }
+                },
+                axisLabel:{
+                    textStyle:{
+                        fontSize:18
+                    }
+                },
+                axisLine: {
+                    show: false,
+                    lineStyle: {
+                        color: '#000'
+                    }
+                }
+            },
+            {
+               name: '作答时间',
+               splitLine: {
+                    show: false,
+                    lineStyle: {
+                        color: '#aaa'
+                    }
+                },
+                axisLabel:{
+                    textStyle:{
+                        fontSize:18
+                    }
+                },
+                axisLine: {
+                    show: false,
+                    lineStyle: {
+                        color: '#000'
+                    }
+                }
+            },],
+            series: [{
+                    name: '分数',
+                    type: 'line',
+                    smooth: true,
+                    showAllSymbol: true,
+                    symbol: 'emptyCircle',
+                    symbolSize: 1,
+                    data: lineData
+                },
+                {
+                    name: '作答用时',
+                    yAxisIndex: 1,
+                    type: 'bar',
+                    barWidth: 10,
+                    itemStyle: {
+                        normal: {
+                            barBorderRadius: 5,
+                            color: new echarts.graphic.LinearGradient(
+                                0, 0, 0, 1,
+                                [{
+                                        offset: 0,
+                                        color: '#14c8d4'
+                                    },
+                                    {
+                                        offset: 1,
+                                        color: '#43eec6'
+                                    }
+                                ]
+                            )
+                        }
+                    },
+                    data: barData
+                }]
+            };
+        }
+
+        //适应屏幕
+        <!--setTimeout(function (){-->
+	    <!--window.onresize = function () {-->
+	    	<!--twChart.resize();-->
+	    <!--}-->
+	<!--},200)-->
+
+    function createChart(data){
+        myChart.showLoading({
+                text : data.length
+            });
+            category=[];
+            lineData=[];
+            barData=[];
+            for(var i=0;i<data.length;i++){
+                category.push(data[i].date);
+                lineData.push(data[i].score);
+                barData.push(data[i].time);
+            }
+            newOption();
+            myChart.setOption(options);
+            window.onresize=myChart.resize();
+            myChart.hideLoading();
+    }
+
+</script>
+</body>
+</html>

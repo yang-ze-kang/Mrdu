@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		MyUserTitleBar.getTitleBar(this);
 		setContentView(R.layout.activity_main);
-		// Toast.makeText(mcontext, "jinru", 0).show();
+		// Toast.makeText(mContext, "jinru", 0).show();
 
 		//初始化卫星菜单控件
 		IniteStatelliteMenu();
